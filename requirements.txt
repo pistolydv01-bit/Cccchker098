@@ -1,5 +1,0 @@
-pyTelegramBotAPI
-Flask
-requests
-qrcode[pil]
-python-dotenv
