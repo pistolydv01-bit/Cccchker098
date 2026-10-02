@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+qrcode[pil]
+Pillow
+google-genai
+libsql-experimental
+reportlab
