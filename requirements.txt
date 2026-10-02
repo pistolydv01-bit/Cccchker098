@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-qrcode[pil]
-Pillow
-google-genai
